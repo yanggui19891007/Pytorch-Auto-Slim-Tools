@@ -108,4 +108,8 @@ python cifar100_prune.py --mode train --round 2 --total_epochs 10 --batch_size 5
 
 ## 6 致谢
 
-感谢以下仓库：[https://github.com/TD-wzw/Autoslim](https://github.com/TD-wzw/Autoslim)
+感谢以下仓库：
+
+[https://github.com/TD-wzw/Autoslim](https://github.com/TD-wzw/Autoslim)
+
+[https://github.com/microsoft/nni](https://github.com/microsoft/nni)
