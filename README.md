@@ -38,7 +38,7 @@ A pytorch toolkit for structured neural network pruning automatically
 ## 3 Installation 安装
 
 ```bash
-pip install -e ./Autoslim
+pip install -e ./
 ```
 
 ## 4 Instructions 使用介绍
